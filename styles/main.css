@@ -1,0 +1,45 @@
+header img {
+    float: left;
+}
+
+header {
+    clear: left;
+}
+
+header h2 {
+    font-size: 170%;
+    color: #800000;
+    padding-left: 100px;
+}
+
+header h3 {
+    font-size: 130%;
+    font-style: italic;
+    padding-left: 100px;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+}
+
+main h1 {
+    font-size: 150%;
+}
+
+main h2 {
+    font-size: 130%;
+    color: #800000;
+}
+
+main h3 {
+    font-size: 105%;
+}
+
+main a:hover, main a:active {
+    font-style: italic;
+}
+
+footer p {
+    text-align: center;
+}
