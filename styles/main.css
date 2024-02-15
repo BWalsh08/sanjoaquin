@@ -23,6 +23,10 @@ body {
     font-size: 100%;
 }
 
+.shadow  {
+    text-shadow: 2px 2px 8px #800000;
+  }
+  
 main h1 {
     font-size: 150%;
 }
