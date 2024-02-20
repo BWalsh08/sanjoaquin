@@ -50,6 +50,8 @@ body {
   }
   
 main {
+    clear: both;
+    padding-top: 2em;
     padding-left: 1em;
     padding-right: 1em;
 }
@@ -64,7 +66,7 @@ main h1 {
 main h2 {
     font-size: 130%;
     color: #800000;
-    padding: .5em 0 .25 em 0;
+    padding: .75em .5em .5em .5em;
 }
 
 main h3 {
@@ -85,6 +87,7 @@ main p {
 }
 
 main blockquote {
+    width: 599px;
     padding: 0 2em;
     font-style: italic;
 }
