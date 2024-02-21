@@ -100,6 +100,25 @@ main li {
     padding-bottom: .35em;
 }
 
+aside {
+    display: block;
+    max-width: 35%;
+}
+
+aside h2 {
+    text-align: left;
+    max-width: 200%;
+}
+
+article a {
+    font-weight: bold;
+}
+
+section {
+    display: block;
+    max-width: 65%;
+}
+
 footer {
     background-color: #931420;
 }
