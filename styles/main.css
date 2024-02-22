@@ -54,6 +54,7 @@ main {
     padding-top: 2em;
     padding-left: 1em;
     padding-right: 1em;
+    display: flex;
 }
 
 main h1 {
@@ -100,14 +101,10 @@ main li {
     padding-bottom: .35em;
 }
 
-aside {
-    display: block;
-    max-width: 35%;
-}
 
 aside h2 {
     text-align: left;
-    max-width: 200%;
+    ;
 }
 
 article a {
